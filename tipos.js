@@ -6,4 +6,4 @@ let banana = {
     "fruta": "sim",
     "sabor": "doce"
 }
-console.log(banana.cor)
+console.log("a cor da banana é " + banana.cor + ", banana "+ banana.leguminosa +" é leguminosa e é uma fruta "+ banana.sabor +  " "+ banana.fruta +"")
